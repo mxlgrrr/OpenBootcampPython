@@ -3,3 +3,6 @@
     Este ejercicio lo tienes que realizar desde la consola de python y subir capturas de pantalla en una carpeta comprimida zip.
 """
 
+cadena = "Cadena de texto"
+print(cadena)
+print("El tipo de variable es %s", type(cadena))
