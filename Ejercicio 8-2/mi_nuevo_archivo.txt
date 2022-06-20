@@ -1,0 +1,4 @@
+Objeto Vehiculo
+Color: Rojo 
+Ruedas: 4
+Puertas: 5
